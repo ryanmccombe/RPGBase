@@ -5,3 +5,6 @@ Saved
 *.sdf
 *.sln
 *.suo
+/Plugins
+/Content/StarterContent
+/Content/ThirdPersonBP
